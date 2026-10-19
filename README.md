@@ -4,7 +4,8 @@
 
 An interactive Tableau dashboard exploring customer complaint patterns, service responsiveness, priority tags, complaint issues, and geographic distribution. The goal is to translate historical complaint records into questions and recommendations that a customer service or operations team could investigate.
 
-![Dashboard overview](screenshots/dashboard-overview-2.png)
+![Dashboard overview](Screenshots/Dashboard_1.png)
+![Dashboard overview](Screenshots/Dashboard_2.png)
 
 ## Business questions
 
